@@ -1,0 +1,11 @@
+C:\temp\GitHub\Poc.Messaging.RabbitMQ\Poc.Messaging.RabbitMQ.Send\bin\Debug\netcoreapp2.0\Poc.Messaging.RabbitMQ.Send.deps.json
+C:\temp\GitHub\Poc.Messaging.RabbitMQ\Poc.Messaging.RabbitMQ.Send\bin\Debug\netcoreapp2.0\Poc.Messaging.RabbitMQ.Send.runtimeconfig.json
+C:\temp\GitHub\Poc.Messaging.RabbitMQ\Poc.Messaging.RabbitMQ.Send\bin\Debug\netcoreapp2.0\Poc.Messaging.RabbitMQ.Send.runtimeconfig.dev.json
+C:\temp\GitHub\Poc.Messaging.RabbitMQ\Poc.Messaging.RabbitMQ.Send\bin\Debug\netcoreapp2.0\Poc.Messaging.RabbitMQ.Send.dll
+C:\temp\GitHub\Poc.Messaging.RabbitMQ\Poc.Messaging.RabbitMQ.Send\bin\Debug\netcoreapp2.0\Poc.Messaging.RabbitMQ.Send.pdb
+C:\temp\GitHub\Poc.Messaging.RabbitMQ\Poc.Messaging.RabbitMQ.Send\obj\Debug\netcoreapp2.0\Poc.Messaging.RabbitMQ.Send.csprojAssemblyReference.cache
+C:\temp\GitHub\Poc.Messaging.RabbitMQ\Poc.Messaging.RabbitMQ.Send\obj\Debug\netcoreapp2.0\Poc.Messaging.RabbitMQ.Send.csproj.CoreCompileInputs.cache
+C:\temp\GitHub\Poc.Messaging.RabbitMQ\Poc.Messaging.RabbitMQ.Send\obj\Debug\netcoreapp2.0\Poc.Messaging.RabbitMQ.Send.AssemblyInfoInputs.cache
+C:\temp\GitHub\Poc.Messaging.RabbitMQ\Poc.Messaging.RabbitMQ.Send\obj\Debug\netcoreapp2.0\Poc.Messaging.RabbitMQ.Send.AssemblyInfo.cs
+C:\temp\GitHub\Poc.Messaging.RabbitMQ\Poc.Messaging.RabbitMQ.Send\obj\Debug\netcoreapp2.0\Poc.Messaging.RabbitMQ.Send.dll
+C:\temp\GitHub\Poc.Messaging.RabbitMQ\Poc.Messaging.RabbitMQ.Send\obj\Debug\netcoreapp2.0\Poc.Messaging.RabbitMQ.Send.pdb

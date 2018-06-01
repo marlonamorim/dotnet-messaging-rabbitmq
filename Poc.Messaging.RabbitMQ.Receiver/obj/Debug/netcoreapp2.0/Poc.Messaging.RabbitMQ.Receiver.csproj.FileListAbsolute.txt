@@ -1,0 +1,10 @@
+C:\temp\GitHub\Poc.Messaging.RabbitMQ\Poc.Messaging.RabbitMQ.Receiver\bin\Debug\netcoreapp2.0\Poc.Messaging.RabbitMQ.Receiver.deps.json
+C:\temp\GitHub\Poc.Messaging.RabbitMQ\Poc.Messaging.RabbitMQ.Receiver\bin\Debug\netcoreapp2.0\Poc.Messaging.RabbitMQ.Receiver.runtimeconfig.json
+C:\temp\GitHub\Poc.Messaging.RabbitMQ\Poc.Messaging.RabbitMQ.Receiver\bin\Debug\netcoreapp2.0\Poc.Messaging.RabbitMQ.Receiver.runtimeconfig.dev.json
+C:\temp\GitHub\Poc.Messaging.RabbitMQ\Poc.Messaging.RabbitMQ.Receiver\bin\Debug\netcoreapp2.0\Poc.Messaging.RabbitMQ.Receiver.dll
+C:\temp\GitHub\Poc.Messaging.RabbitMQ\Poc.Messaging.RabbitMQ.Receiver\bin\Debug\netcoreapp2.0\Poc.Messaging.RabbitMQ.Receiver.pdb
+C:\temp\GitHub\Poc.Messaging.RabbitMQ\Poc.Messaging.RabbitMQ.Receiver\obj\Debug\netcoreapp2.0\Poc.Messaging.RabbitMQ.Receiver.csproj.CoreCompileInputs.cache
+C:\temp\GitHub\Poc.Messaging.RabbitMQ\Poc.Messaging.RabbitMQ.Receiver\obj\Debug\netcoreapp2.0\Poc.Messaging.RabbitMQ.Receiver.AssemblyInfoInputs.cache
+C:\temp\GitHub\Poc.Messaging.RabbitMQ\Poc.Messaging.RabbitMQ.Receiver\obj\Debug\netcoreapp2.0\Poc.Messaging.RabbitMQ.Receiver.AssemblyInfo.cs
+C:\temp\GitHub\Poc.Messaging.RabbitMQ\Poc.Messaging.RabbitMQ.Receiver\obj\Debug\netcoreapp2.0\Poc.Messaging.RabbitMQ.Receiver.dll
+C:\temp\GitHub\Poc.Messaging.RabbitMQ\Poc.Messaging.RabbitMQ.Receiver\obj\Debug\netcoreapp2.0\Poc.Messaging.RabbitMQ.Receiver.pdb
